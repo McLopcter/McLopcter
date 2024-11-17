@@ -2,4 +2,4 @@
 - 👀 I'm interested in learning codes
 - 🌱 I'm currently learning JavaScript
 - 💞️ I want to work on HTML
-- 📫 How to contact me on discord user <mclopcter06>
+- 📫 How to contact me on discord user mclopcter06
